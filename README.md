@@ -26,7 +26,7 @@ Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google)
 
 ## Calendario escolar
 
-[Calendario del curso escolar 2017/2018 para Málaga capital](CalendarioProvincial1718.pdf)
+[Calendario del curso escolar 2018/2019 para Málaga](calendario1819.pdf)
 
 ## Normas de clase
 
