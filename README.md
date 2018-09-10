@@ -10,6 +10,7 @@
 * [Normas de clase](#normas-de-clase)
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Horarios](#horarios)
+* [Localización](#localizacion)
 * [Enlaces](#enlaces)
 
 ## Módulos profesionales (asignaturas)
@@ -88,6 +89,49 @@ LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González 
 
 ED: Entornos de Desarrollo. Antonio José Sánchez.
 
+
+### 2º DAM
+
+| Lunes | Martes | Miércoles | Jueves | Viernes |
+| :---: | :---:  |   :---:   | :---:  |  :---:  |
+| EED   | SINF   | PRO       | PROG   | SINF    |
+| LM    | SINF   | PRO       | PROG   | SINF    |
+| LM    | SINF   | PRO       | EED    | SINF    |
+| BBDD  | PROG   | BBDD      | EED    | FOL     |
+| BBDD  | PRO    | BBDD      | LM     | FOL     |
+| BBDD  | PRO    | BBDD      | LM     | FOL     |
+
+### 2º DAW
+
+| Lunes | Martes | Miércoles | Jueves | Viernes |
+| :---: | :---:  |   :---:   | :---:  |  :---:  |
+| SINF  | PRO    | SINF      | PRO    | PRO     |
+| SINF  | PRO    | SINF      | PRO    | PRO     |
+| SINF  | PRO    | SINF      | PRO    | ED      |
+| FOL   | BBDD   | ED        | BBDD   | LM      |
+| FOL   | BBDD   | ED        | BBDD   | LM      |
+| FOL   | BBDD   | LM        | BBDD   | LM      |
+
+SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
+
+FOL: Formación y Orientación Laboral. Isabel Gregory.
+
+PRO: Programación. Luis José Sánchez.
+
+BBDD: Bases de Datos. Eva Mª Perales.
+
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González (DAW) y Moisés Martínez (DAM).
+
+ED: Entornos de Desarrollo. Antonio José Sánchez.
+
+## Localización
+
+DAW: Marie Curie, 10
+
+DAM:
+
 ## Enlaces
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
+[Plataforma educativa Moodle](http://iescampanillas.com/)
+
