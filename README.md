@@ -42,38 +42,15 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Presentacion del IES Campanillas](https://rawgit.com/LuisJoseSanchez/presentacion-ies-campanillas/master/index.html)
 
-
-## Bibliografía
-
-
-<a href="https://leanpub.com/aprendejava">![Aprende Java con Ejercicios](aprendejava200.jpg)</a>
-
-[Aprende Java con Ejercicios](https://leanpub.com/aprendejava/)
-
-<a href="https://leanpub.com/gitygithub/">![Git y GitHub - Guía de Supervivencia](https://github.com/LuisJoseSanchez/dwes/blob/master/gitygithub200.jpg)</a>
-
-[Git y GitHub - Guía de Supervivencia](https://leanpub.com/gitygithub/)
-
-
-<a href="linux_practical_manual_31_07_2014_en.pdf">![Linux Practical Manual with Exercises](linuxpracticalmanual200.png)</a>
-
-[Linux Practical Manual with Exercises](linux_practical_manual_31_07_2014_en.pdf)
-
-[Advanced Bash-Scripting Guide - Mendel Cooper](abs-guide.pdf)
-
-[Programación en Bash](manualbash.pdf)
-
-## Ejemplos y soluciones a los ejercicios
-
-<https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios>
-
-## Perfiles de GitHub
+## Perfiles de GitHub de alumnos
 
 [Perfiles de GitHub de alumnos de DAW de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
 
 [Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
 
-[Perfil del profesor de la asignatura de Programación](https://github.com/LuisJoseSanchez)
+## Perfiles de GitHub de profesores
+
+[Luis José Sánchez](https://github.com/LuisJoseSanchez)
 
 ## Horarios
 
