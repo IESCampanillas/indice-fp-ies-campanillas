@@ -138,7 +138,11 @@ DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
 
 ## Localización
 
+<img src="mariecurie.jpg">
+
 DAW: C/ Marie Curie, 10. 29590, PTA
+
+<img src="incubadora.png">
 
 DAM: C/ Frederick Terman,3. 29590, PTA
 
