@@ -94,23 +94,23 @@ ED: Entornos de Desarrollo. Antonio José Sánchez.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| EED   | SINF   | PRO       | PROG   | SINF    |
-| LM    | SINF   | PRO       | PROG   | SINF    |
-| LM    | SINF   | PRO       | EED    | SINF    |
-| BBDD  | PROG   | BBDD      | EED    | FOL     |
-| BBDD  | PRO    | BBDD      | LM     | FOL     |
-| BBDD  | PRO    | BBDD      | LM     | FOL     |
+|    |    |        |    |   |
+|    |    |        |    |     |
+|    |    |        |     |     |
+|   |    |       |     |      |
+|   |     |       |      |      |
+|   |     |       |     |      |
 
 ### 2º DAW
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| SINF  | PRO    | SINF      | PRO    | PRO     |
-| SINF  | PRO    | SINF      | PRO    | PRO     |
-| SINF  | PRO    | SINF      | PRO    | ED      |
-| FOL   | BBDD   | ED        | BBDD   | LM      |
-| FOL   | BBDD   | ED        | BBDD   | LM      |
-| FOL   | BBDD   | LM        | BBDD   | LM      |
+|   |     |       |     |      |
+|   |     |       |     |      |
+|   |     |       |     |       |
+|    |    |         |    |      |
+|    |    |         |    |       |
+|    |    |         |    |       |
 
 SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
 
