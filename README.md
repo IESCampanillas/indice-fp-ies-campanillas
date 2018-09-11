@@ -94,25 +94,25 @@ ED: Entornos de Desarrollo. Antonio José Sánchez.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-|    |    |        |    |   |
-|    |    |        |    |     |
-|    |    |        |     |     |
-|   |    |       |     |      |
-|   |     |       |      |      |
-|   |     |       |     |      |
+| AD    | SGE    | DI        | SGE    | EIEM    |
+| AD    | SGE    | DI        | SGE    | EIEM    |
+| AD    | EIEM   | DI        | DI     | EIEM    |
+| PMDM  | PMDM   | AD        | DI     | HLC     |
+| PMDM  | PMDM   | AD        | DI     | HLC     |
+| PSP   | PSP    | PSP       | DI     | HLC     |
 
 ### 2º DAW
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-|   |     |       |     |      |
-|   |     |       |     |      |
-|   |     |       |     |       |
-|    |    |         |    |      |
-|    |    |         |    |       |
-|    |    |         |    |       |
+| HLC   | DWES   |  DWEC     | DWES   | DI      |
+| HLC   | DWES   |  DWEC     | DWES   | DI      |
+| HLC   | DWES   |  DWEC     | DWES   | DI      |
+| EIEM  | DI     |           | DWEC   | DAW     |
+| EIEM  | DI     |           | DWEC   | DAW     |
+| EIEM  | DI     | EIEM      | DWEC   | DAW     |
 
-SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
+HLC: Horas de libre configuración. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
 
 FOL: Formación y Orientación Laboral. Isabel Gregory.
 
