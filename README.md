@@ -70,12 +70,12 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| SINF  | PRO    | SINF      | PRO    | PRO     |
-| SINF  | PRO    | SINF      | PRO    | PRO     |
-| SINF  | PRO    | SINF      | PRO    | ED      |
-| FOL   | BBDD   | ED        | BBDD   | LM      |
-| FOL   | BBDD   | ED        | BBDD   | LM      |
-| FOL   | BBDD   | LM        | BBDD   | LM      |
+| SINF  | PRO    | EED       | EED    | SINF    |
+| SINF  | PRO    | LM        | PRO    | SINF    |
+| SINF  | PRO    | LM        | PRO    | SINF    |
+| FOL   | BBDD   | PROG      | BBDD   | EED     |
+| FOL   | BBDD   | PROG      | BBDD   | LM      |
+| FOL   | BBDD   | PROG      | BBDD   | LM      |
 
 SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
 
