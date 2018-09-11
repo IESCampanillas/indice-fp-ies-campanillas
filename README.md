@@ -101,17 +101,17 @@ ED: Entornos de Desarrollo. Pilar González.
 | PMDM  | PMDM   | AD        | DI     | HLC     |
 | PSP   | PSP    | PSP       | DI     | HLC     |
 
-HLC: Horas de Libre Configuración. Sergio Banderas.
+AD: Acceso a Datos. Luis José Sánchez.
 
 EIEM: Empresa e Iniciativa Emprendedora. Isabel Gregory.
 
-DWES: Desarrollo Web en Entorno Servidor. Antonio J. Sánchez.
+PMDM: Proyecto Multimedia y Dispositivos Móviles. Antonio J. Sánchez.
 
 DI: Diseño de Interface. Moisés Martínez.
 
-DWEC: Desarrollo Web en Entorno Cliente. Sergio Banderas.
+PSP: Programación de Servicios y Procesos. Antonio J. Sánchez.
 
-DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
+HLC: Horas de Libre Configuración. Sergio Banderas.
 
 ### 2º DAW
 
@@ -126,7 +126,7 @@ DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
 
 HLC: Horas de Libre Configuración. Sergio Banderas.
 
-EIEM: Empresa e Iniciativa Emprendedora. Isabel Gregory.
+EIEM: Empresa e Iniciativa Emprendedora. Paqui.
 
 DWES: Desarrollo Web en Entorno Servidor. Antonio J. Sánchez.
 
