@@ -52,6 +52,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 ## Perfiles de GitHub de profesores
 
 [Luis José Sánchez](https://github.com/LuisJoseSanchez)
+[Eva María Perales Belizón](https://github.com/evaperales) 
 
 ## Horarios
 
