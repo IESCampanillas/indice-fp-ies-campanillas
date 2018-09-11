@@ -138,7 +138,7 @@ DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
 
 ## Localización
 
-<img src="mariecurie.jpg">
+<img src="mariecurie.png">
 
 DAW: C/ Marie Curie, 10. 29590, PTA
 
