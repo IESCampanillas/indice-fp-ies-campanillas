@@ -77,17 +77,17 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 | FOL   | BBDD   | PROG      | BBDD   | LM      |
 | FOL   | BBDD   | PROG      | BBDD   | LM      |
 
-SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
+SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Pablo Blanco (DAM).
 
 FOL: Formación y Orientación Laboral. Isabel Gregory.
 
-PRO: Programación. Luis José Sánchez.
+PRO: Programación. Luis José Sánchez (DAM) y Juan Antonio Jiménez (DAW).
 
 BBDD: Bases de Datos. Eva Mª Perales.
 
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González (DAW) y Moisés Martínez (DAM).
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
 
-ED: Entornos de Desarrollo. Antonio José Sánchez.
+ED: Entornos de Desarrollo. Pilar González.
 
 
 ### 2º DAM
@@ -101,34 +101,46 @@ ED: Entornos de Desarrollo. Antonio José Sánchez.
 | PMDM  | PMDM   | AD        | DI     | HLC     |
 | PSP   | PSP    | PSP       | DI     | HLC     |
 
+HLC: Horas de Libre Configuración. Sergio Banderas.
+
+EIEM: Empresa e Iniciativa Emprendedora. Isabel Gregory.
+
+DWES: Desarrollo Web en Entorno Servidor. Antonio J. Sánchez.
+
+DI: Diseño de Interface. Moisés Martínez.
+
+DWEC: Desarrollo Web en Entorno Cliente. Sergio Banderas.
+
+DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
+
 ### 2º DAW
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| HLC   | DWES   |  DWEC     | DWES   | DI      |
-| HLC   | DWES   |  DWEC     | DWES   | DI      |
-| HLC   | DWES   |  DWEC     | DWES   | DI      |
-| EIEM  | DI     |           | DWEC   | DAW     |
-| EIEM  | DI     |           | DWEC   | DAW     |
+| HLC   | DWES   | DWEC      | DWES   | DI      |
+| HLC   | DWES   | DWEC      | DWES   | DI      |
+| HLC   | DWES   | DWEC      | DWES   | DI      |
+| EIEM  | DI     | DWES      | DWEC   | DAW     |
+| EIEM  | DI     | DWES      | DWEC   | DAW     |
 | EIEM  | DI     | EIEM      | DWEC   | DAW     |
 
-HLC: Horas de libre configuración. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
+HLC: Horas de Libre Configuración. Sergio Banderas.
 
-FOL: Formación y Orientación Laboral. Isabel Gregory.
+EIEM: Empresa e Iniciativa Emprendedora. Isabel Gregory.
 
-PRO: Programación. Luis José Sánchez.
+DWES: Desarrollo Web en Entorno Servidor. Antonio J. Sánchez.
 
-BBDD: Bases de Datos. Eva Mª Perales.
+DI: Diseño de Interface. Moisés Martínez.
 
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González (DAW) y Moisés Martínez (DAM).
+DWEC: Desarrollo Web en Entorno Cliente. Sergio Banderas.
 
-ED: Entornos de Desarrollo. Antonio José Sánchez.
+DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
 
 ## Localización
 
-DAW: Marie Curie, 10
+DAW: C/ Marie Curie, 10. 29590, PTA
 
-DAM:
+DAM: C/ Frederick Terman,3. 29590, PTA
 
 ## Enlaces
 
