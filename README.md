@@ -79,7 +79,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 | FOL   | BBDD   | PROG      | BBDD   | LM      |
 | FOL   | BBDD   | PROG      | BBDD   | LM      |
 
-SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Pablo Blanco (DAM).
+SINF: Sistemas Informáticos. Juan Carlos Amaya (DAM) y Pablo Blanco (DAW).
 
 FOL: Formación y Orientación Laboral. Isabel Gregory.
 
