@@ -56,6 +56,8 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Eva María Perales Belizón](https://github.com/evaperales) 
 
+[Juan Antonio Jiménez](https://github.com/profesorjim) 
+
 ## Horarios
 
 ### 1º DAM
