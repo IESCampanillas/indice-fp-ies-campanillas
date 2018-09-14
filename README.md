@@ -4,6 +4,7 @@
 
 ## Índice general
 
+* [Módulos profesionales](#modulos-profesionales)
 * [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
 * [Listas de correo](#listas-de-correo)
 * [Calendario escolar](#calendario-escolar)
@@ -13,7 +14,7 @@
 * [Localización](#localizacion)
 * [Enlaces](#enlaces)
 
-## Módulos profesionales (asignaturas)
+## Módulos profesionales
 
 * [Programación](https://github.com/LuisJoseSanchez/programacion)
 
