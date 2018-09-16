@@ -46,12 +46,11 @@ Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google)
 
 Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corresponda (enlaces de abajo) y solicitar la admisión en el grupo. En el campo de texto que debe aparecer, hay que introducir nombre y apellidos y el curso.
 
+(pendiente de enlace)
 
+<!--
 * [IES Campanillas DAW - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-daw-2018-2020): `ies-campanillas-daw-2018-2020@googlegroups.com`
 * [IES Campanillas DAM - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-dam-2018-2020): `ies-campanillas-dam-2018-2020@googlegroups.com`
-
-<!-- * [IES Campanillas DAW - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-daw-2018-2020): `ies-campanillas-daw-2018-2020@googlegroups.com`
-[//]: # * [IES Campanillas DAM - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-dam-2018-2020): `ies-campanillas-dam-2018-2020@googlegroups.com`
 -->
 
 ## Canal de Slack
