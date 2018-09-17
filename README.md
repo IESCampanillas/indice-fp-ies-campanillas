@@ -104,10 +104,10 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| EED   | SINF   | PRO       | PROG   | SINF    |
-| LM    | SINF   | PRO       | PROG   | SINF    |
+| EED   | SINF   | PRO       | PRO    | SINF    |
+| LM    | SINF   | PRO       | PRO    | SINF    |
 | LM    | SINF   | PRO       | EED    | SINF    |
-| BBDD  | PROG   | BBDD      | EED    | FOL     |
+| BBDD  | PRO    | BBDD      | EED    | FOL     |
 | BBDD  | PRO    | BBDD      | LM     | FOL     |
 | BBDD  | PRO    | BBDD      | LM     | FOL     |
 
