@@ -111,6 +111,9 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 | BBDD  | PRO    | BBDD      | LM     | FOL     |
 | BBDD  | PRO    | BBDD      | LM     | FOL     |
 
+Delegado: José María Gómez
+Subdelegado: Borja Sevilla
+
 ### 1º DAW
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
