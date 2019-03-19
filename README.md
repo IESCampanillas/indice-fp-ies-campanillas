@@ -197,7 +197,7 @@ DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
 
 ## Diario de trabajo de FP Dual
 
-<https://diariofp.online>
+:notebook: <https://diariofp.online>
 
 ## Proyecto final
 
