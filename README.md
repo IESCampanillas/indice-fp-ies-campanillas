@@ -106,6 +106,8 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Juan Antonio Jiménez](https://github.com/profesorjim) 
 
+[Antonio José Sánchez](https://github.com/bilbobolson) 
+
 ## Horarios
 
 ### 1º DAM
