@@ -12,7 +12,7 @@
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Horarios](#horarios)
-* [Diario de trabajo de FP Dual](#diario)
+* [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
 * [Proyecto final](#proyecto-final)
 * [Localización](#localizacion)
 * [Enlaces](#enlaces)
