@@ -15,6 +15,9 @@
 * [Localización](#localizacion)
 * [Enlaces](#enlaces)
 
+* [Diario de trabajo] (https://diariofp.online)
+
+
 ## Módulos profesionales
 
 ### 1º DAM
