@@ -15,7 +15,7 @@
 * [Localización](#localizacion)
 * [Enlaces](#enlaces)
 
-* [Diario de trabajo] (https://diariofp.online)
+* [Diario de trabajo](https://diariofp.online)
 
 
 ## Módulos profesionales
