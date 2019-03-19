@@ -12,11 +12,10 @@
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Horarios](#horarios)
+* [Diario de trabajo de FP Dual](#diario)
+* [Proyecto final](#proyecto)
 * [Localización](#localizacion)
 * [Enlaces](#enlaces)
-
-* [Diario de trabajo](https://diariofp.online)
-
 
 ## Módulos profesionales
 
@@ -195,6 +194,16 @@ DI: Diseño de Interface. Moisés Martínez.
 DWEC: Desarrollo Web en Entorno Cliente. Sergio Banderas.
 
 DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
+
+## Diario de trabajo de FP Dual
+
+<https://diariofp.online>
+
+## Proyecto final
+
+Las instrucciones para la realización del proyecto final de DAM están en el siguiente repositorio:
+
+:octocat: <https://github.com/IESCampanillas/proyectos-dam-2019>
 
 ## Localización
 
