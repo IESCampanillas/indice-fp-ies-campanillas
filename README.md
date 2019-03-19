@@ -13,7 +13,7 @@
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Horarios](#horarios)
 * [Diario de trabajo de FP Dual](#diario)
-* [Proyecto final](#proyecto)
+* [Proyecto final](#proyecto-final)
 * [Localización](#localizacion)
 * [Enlaces](#enlaces)
 
