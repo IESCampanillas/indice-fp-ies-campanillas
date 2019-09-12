@@ -74,7 +74,7 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 
 ## Calendario escolar
 
-[Calendario del curso escolar 2018/2019 para Málaga](calendario1819.pdf)
+[Calendario del curso escolar 2018/2019 para Málaga](calendario1920.pdf)
 
 ## Normas de clase
 
