@@ -129,7 +129,7 @@ Subdelegado: Borja Sevilla
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| SINF  | PRO    | EED       | EED    | SINF    |
+| EED   | PRO    | EED       | EED    | SINF    |
 | SINF  | PRO    | LM        | PRO    | SINF    |
 | SINF  | PRO    | LM        | PRO    | SINF    |
 | FOL   | BBDD   | PROG      | BBDD   | EED     |
