@@ -4,7 +4,7 @@
 
 ## Índice general
 
-* [Módulos profesionales](#módulos-profesionales)
+* [Módulos profesionales](#modulos-profesionales)
 * [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
 * [Listas de correo](#listas-de-correo)
 * [Calendario escolar](#calendario-escolar)
@@ -113,25 +113,25 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| PRO   | EDD    | PRO       | PRO    | SINF    |
-| PRO   | LM     | PRO       | PRO    | SINF    |
-| PRO   | LM     | PRO       | EDD    | SINF    |
-| BBDD  | SINF   | BBDD      | EDD    | FOL     |
-| BBDD  | SINF   | BBDD      | LM     | FOL     |
-| BBDD  | SINF   | BBDD      | LM     | FOL     |
+| EED   | SINF   | PRO       | PRO    | SINF    |
+| LM    | SINF   | PRO       | PRO    | SINF    |
+| LM    | SINF   | PRO       | EED    | SINF    |
+| BBDD  | PRO    | BBDD      | EED    | FOL     |
+| BBDD  | PRO    | BBDD      | LM     | FOL     |
+| BBDD  | PRO    | BBDD      | LM     | FOL     |
 
 
-Delegado: Por nombrar
+Delegado: José María Gómez
 
-Subdelegado: Por nombrar
+Subdelegado: Borja Sevilla
 
 ### 1º DAW
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| EED   | PRO    | PROG      | PROG   | FOL     |
-| LM    | PRO    | PROG      | PROG   | FOL     |
-| LM    | PRO    | ED        | PROG   | FOL     |
+| EED   | PRO    | PRO       | PRO    | FOL     |
+| LM    | PRO    | PRO       | PRO    | FOL     |
+| LM    | PRO    | ED        | PRO    | FOL     |
 | SINF  | BBDD   | ED        | BBDD   | SINF    |
 | SINF  | BBDD   | LM        | BBDD   | SINF    |
 | SINF  | BBDD   | LM        | BBDD   | SINF    |
