@@ -4,7 +4,7 @@
 
 ## Índice general
 
-* [Módulos profesionales](#modulos-profesionales)
+* [Módulos profesionales](#módulos-profesionales)
 * [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
 * [Listas de correo](#listas-de-correo)
 * [Calendario escolar](#calendario-escolar)
