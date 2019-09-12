@@ -129,14 +129,14 @@ Subdelegado: Borja Sevilla
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| EED   | PRO    | EED       | EED    | SINF    |
-| LM    | PRO    | LM        | PRO    | SINF    |
-| SINF  | PRO    | LM        | PRO    | SINF    |
-| FOL   | BBDD   | PROG      | BBDD   | EED     |
-| FOL   | BBDD   | PROG      | BBDD   | LM      |
-| FOL   | BBDD   | PROG      | BBDD   | LM      |
+| EED   | PRO    | PROG      | PROG   | FOL     |
+| LM    | PRO    | PROG      | PROG   | FOL     |
+| LM    | PRO    | ED        | PROG   | FOL     |
+| SINF  | BBDD   | ED        | BBDD   | SINF    |
+| SINF  | BBDD   | LM        | BBDD   | SINF    |
+| SINF  | BBDD   | LM        | BBDD   | SINF    |
 
-SINF: Sistemas Informáticos. Juan Carlos Amaya (DAM) y Pablo Blanco (DAW).
+SINF: Sistemas Informáticos. Juan Carlos Amaya (DAM) y Miguel Ángel Ronda (DAW).
 
 FOL: Formación y Orientación Laboral. Isabel Gregory.
 
