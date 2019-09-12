@@ -138,7 +138,7 @@ Subdelegado: Borja Sevilla
 
 SINF: Sistemas Informáticos. Juan Carlos Amaya (DAM) y Miguel Ángel Ronda (DAW).
 
-FOL: Formación y Orientación Laboral. Isabel Gregory.
+FOL: Formación y Orientación Laboral. Isabel Gregory (DAW) y Paqui (DAM)
 
 PRO: Programación. Luis José Sánchez (DAM) y Juan Antonio Jiménez (DAW).
 
