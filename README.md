@@ -170,6 +170,8 @@ DI: Diseño de Interface. Moisés Martínez.
 
 PSP: Programación de Servicios y Procesos. Antonio J. Sánchez.
 
+SGE: Sistemas de Gestión Empresarial. Miguel Ángel Ronda.
+
 HLC: Horas de Libre Configuración. Sergio Banderas.
 
 ### 2º DAW
