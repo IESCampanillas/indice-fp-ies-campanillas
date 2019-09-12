@@ -118,17 +118,17 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| EED   | SINF   | PRO       | PRO    | SINF    |
-| LM    | SINF   | PRO       | PRO    | SINF    |
-| LM    | SINF   | PRO       | EED    | SINF    |
-| BBDD  | PRO    | BBDD      | EED    | FOL     |
-| BBDD  | PRO    | BBDD      | LM     | FOL     |
-| BBDD  | PRO    | BBDD      | LM     | FOL     |
+| PRO   | EDD    | PRO       | PRO    | SINF    |
+| PRO   | LM     | PRO       | PRO    | SINF    |
+| PRO   | LM     | PRO       | EDD    | SINF    |
+| BBDD  | SINF   | BBDD      | EDD    | FOL     |
+| BBDD  | SINF   | BBDD      | LM     | FOL     |
+| BBDD  | SINF   | BBDD      | LM     | FOL     |
 
 
-Delegado: José María Gómez
+Delegado: Por nombrar
 
-Subdelegado: Borja Sevilla
+Subdelegado: Por nombrar
 
 ### 1º DAW
 
