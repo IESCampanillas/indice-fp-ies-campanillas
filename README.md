@@ -226,5 +226,5 @@ DAM: C/ Frederick Terman,3. 29590, PTA
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
 
-[Plataforma educativa Moodle](http://iescampanillas.com/moodle)
+[Plataforma educativa Moodle](https://iescampanillas.org/aulavirtual/)
 
