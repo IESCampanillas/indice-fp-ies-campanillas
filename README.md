@@ -6,7 +6,6 @@
 
 * [Módulos profesionales](#módulos-profesionales)
 * [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
-* [Listas de correo](#listas-de-correo)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
@@ -56,6 +55,8 @@
 
 [Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLSfeLD14YMtNoc-bJWAdqzW8PB6isP-ZK9GkTDSw0CjLGJ1mwg/viewform) a rellenar por todos los alumnos que cursan el ciclo.
 
+<!--
+
 ## Listas de correo
 
 <img src="img/groups.png">
@@ -66,7 +67,7 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 
 [dam18-20@iescampanillas.com](https://groups.google.com/a/iescampanillas.com/forum/?utm_medium=email&utm_source=footer#!forum/dam18-20)
 
-<!--
+
 * [IES Campanillas DAW - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-daw-2018-2020): `ies-campanillas-daw-2018-2020@googlegroups.com`
 * [IES Campanillas DAM - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-dam-2018-2020): `ies-campanillas-dam-2018-2020@googlegroups.com`
 -->
