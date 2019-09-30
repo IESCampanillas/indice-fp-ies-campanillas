@@ -129,7 +129,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 | BBDD  | SINF   | BBDD      | LM     | FOL     |
 
 
-Delegado: Por nombrar
+Delegado: * [Cisneros Santana, Pedro](https://github.com/PedroCisnerosSantana)
 
 Subdelegado: Por nombrar
 
