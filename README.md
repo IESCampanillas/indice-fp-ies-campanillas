@@ -131,7 +131,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 Delegado: [Cisneros Santana, Pedro](https://github.com/PedroCisnerosSantana)
 
-Subdelegado: Por nombrar
+Subdelegado: [Rosales Girón, José Antonio](https://github.com/joseantoniorosales)
 
 ### 1º DAW
 
