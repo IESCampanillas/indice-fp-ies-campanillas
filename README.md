@@ -84,7 +84,7 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 
 ## Normas de clase
 
-[Normas de clase y funcionamiento de los Ciclos Formativos en el PTA](normas_y_funcionamiento.pdf)
+[Normas de clase y funcionamiento de los Ciclos Formativos en el PTA](normas_y_funcionamientov2.pdf)
 
 
 ## Presentacion del IES Campanillas
