@@ -80,7 +80,7 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 
 ## Calendario escolar
 
-[Calendario del curso escolar 2019/2020 para Málaga](calendario1920.pdf)
+[Calendario del curso escolar 2020/2021 para Málaga](calendario_escolar_20_21.pdf)
 
 ## Normas de clase
 
