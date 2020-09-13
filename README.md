@@ -121,17 +121,22 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| PRO   | EDD    | PRO       | PRO    | SINF    |
-| PRO   | LM     | PRO       | PRO    | SINF    |
-| PRO   | LM     | PRO       | EDD    | SINF    |
-| BBDD  | SINF   | BBDD      | EDD    | FOL     |
-| BBDD  | SINF   | BBDD      | LM     | FOL     |
-| BBDD  | SINF   | BBDD      | LM     | FOL     |
+| ED    | PRO    | PRO       | PRO    | FOL     |
+| ED    | PRO    | PRO       | LM     | FOL     |
+| ED    | LM     | PRO       | LM     | FOL     |
+| PRO   | LM     | BBDD      | SINF   | SINF    |
+| PRO   | BBDD   | BBDD      | SINF   | SINF    |
+| BBDD  | BBDD   | BBDD      | SINF   | SINF    |
 
+ED: Entornos de Desarrollo. Pilar González.
+PRO: Programación. Luis José Sánchez.
+BBDD: Bases de Datos. Eva Mª Perales.
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
+SINF: Sistemas Informáticos. Juan Carlos Amaya.
+FOL: Formación y Orientación Laboral. Paqui Báez Barrionuevo (DAM)
 
-Delegado: [Cisneros Santana, Pedro](https://github.com/PedroCisnerosSantana)
-
-Subdelegado: [Rosales Girón, José Antonio](https://github.com/joseantoniorosales)
+Delegado: Por determinar
+Subdelegado: Por determinar
 
 ### 1º DAW
 
