@@ -128,15 +128,15 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 | PRO   | BBDD   | BBDD      | SINF   | SINF    |
 | BBDD  | BBDD   | BBDD      | SINF   | SINF    |
 
-ED: Entornos de Desarrollo. Pilar González.
-PRO: Programación. Luis José Sánchez.
-BBDD: Bases de Datos. Eva Mª Perales.
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
-SINF: Sistemas Informáticos. Juan Carlos Amaya.
-FOL: Formación y Orientación Laboral. Paqui Báez Barrionuevo (DAM)
+- ED: Entornos de Desarrollo. Pilar González.
+- PRO: Programación. Luis José Sánchez.
+- BBDD: Bases de Datos. Eva Mª Perales.
+- LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
+- SINF: Sistemas Informáticos. Juan Carlos Amaya.
+- FOL: Formación y Orientación Laboral. Paqui Báez Barrionuevo (DAM)
 
-Delegado: Por determinar
-Subdelegado: Por determinar
+- Delegado: Por determinar
+- Subdelegado: Por determinar
 
 ### 1º DAW
 
