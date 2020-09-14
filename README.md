@@ -173,24 +173,22 @@ ED: Entornos de Desarrollo. Pilar González.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| PMDM  | AD     | SGE       | PMDM   | EIEM    |
-| PMDM  | AD     | SGE       | PMDM   | EIEM    |
-| PSP   | DI     | EIE       | PS     | EIEM    |
-| DI    | PSP    | AD        | DI     | HLC     |
-| DI    | SGE    | AD        | DI     | HLC     |
-| DI    | SGE    | AD        | DI     | HLC     |
+| AD    | PSP    | SGE       | DI     | HLC     |
+| AD    | PSP    | SGE       | DI     | HLC     |
+| PMDM  | PSP    | EIE       | SGE    | HLC     |
+| PMDM  | AD     | DI        | SGE    | EIEM    |
+| DI    | DI     | AD        | PMDM   | EIEM    |
+| DI    | DI     | AD        | PMDM   | EIEM    |
 
 AD: Acceso a Datos. Luis José Sánchez.
 
 EIEM: Empresa e Iniciativa Emprendedora. Isabel Gregory (DAW) y Paqui Báez Barrionuevo (DAM).
 
-PMDM: Proyecto Multimedia y Dispositivos Móviles. Antonio J. Sánchez.
+PMDM, PSP: Proyecto Multimedia y Dispositivos Móviles. Antonio J. Sánchez.
 
 DI: Diseño de Interface. Moisés Martínez.
 
-PSP: Programación de Servicios y Procesos. Antonio J. Sánchez.
-
-SGE: Sistemas de Gestión Empresarial. Miguel Ángel Ronda.
+SGE: Sistemas de Gestión Empresarial. José Jiménez Mesa.
 
 HLC: Horas de Libre Configuración. Sergio Banderas.
 
