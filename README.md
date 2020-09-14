@@ -149,14 +149,14 @@ Subdelegado: Por determinar
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| EED   | PRO    | PRO       | PRO    | FOL     |
-| LM    | PRO    | PRO       | PRO    | FOL     |
-| LM    | PRO    | ED        | PRO    | FOL     |
-| SINF  | BBDD   | ED        | BBDD   | SINF    |
-| SINF  | BBDD   | LM        | BBDD   | SINF    |
-| SINF  | BBDD   | LM        | BBDD   | SINF    |
+| PRO   | SINF   | PRO       | PRO    | SINF    |
+| PRO   | SINF   | PRO       | PRO    | SINF    |
+| BBDD  | SINF   | BBDD      | PRO    | SINF    |
+| BBDD  | PRO    | ED        | BBDD   | FOL     |
+| LM    | LM     | ED        | BBDD   | FOL     |
+| LM    | LM     | ED        | BBDD   | FOL     |
 
-SINF: Miguel Ángel Ronda.
+SINF: Gregorio Coronado Morón.
 
 FOL: Isabel Gregory.
 
@@ -164,7 +164,7 @@ PRO: Juan Antonio Jiménez.
 
 BBDD: Bases de Datos. Eva Mª Perales.
 
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. José Mariano Delgado Fajardo
 
 ED: Entornos de Desarrollo. Pilar González.
 
@@ -239,6 +239,6 @@ Las instrucciones para la realización del proyecto final de DAM están en el si
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
 
-[Plataforma educativa Moodle](https://iescampanillas.org/aulavirtual/)
+[Plataforma educativa Moodle](https://iescampanillas.com/aulavirtual/)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
