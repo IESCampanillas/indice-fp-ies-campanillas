@@ -141,9 +141,9 @@ SINF: Sistemas Informáticos. Juan Carlos Amaya.
 FOL: Formación y Orientación Laboral. Paqui Báez Barrionuevo (DAM)
 
 
-Delegado: Por determinar
+Delegado: Jose Manuel Estrada Cobo (provisional)
 
-Subdelegado: Por determinar
+Subdelegado: Adrián Egea Hermoso (provisional)
 
 ### 1º DAW
 
