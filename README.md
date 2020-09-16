@@ -173,8 +173,8 @@ ED: Entornos de Desarrollo. Pilar González.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| AD    | PSP    | SGE       | DI     | HLC     |
-| AD    | PSP    | SGE       | DI     | HLC     |
+| AD    | PSP    | DI        | SGE    | HLC     |
+| AD    | PSP    | DI        | SGE    | HLC     |
 | PMDM  | PSP    | EIE       | SGE    | HLC     |
 | PMDM  | AD     | DI        | SGE    | EIEM    |
 | DI    | DI     | AD        | PMDM   | EIEM    |
