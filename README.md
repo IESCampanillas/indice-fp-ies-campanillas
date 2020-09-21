@@ -184,7 +184,9 @@ AD: Acceso a Datos. Luis José Sánchez.
 
 EIEM: Empresa e Iniciativa Emprendedora. Isabel Gregory (DAW) y Paqui Báez Barrionuevo (DAM).
 
-PMDM, PSP: Proyecto Multimedia y Dispositivos Móviles. Antonio J. Sánchez.
+PMDM: Proyecto Multimedia y Dispositivos Móviles. Antonio J. Sánchez.
+
+PSP: Programación de Servicios y Procesos. Antonio J. Sánchez.
 
 DI: Diseño de Interface. Moisés Martínez.
 
