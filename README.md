@@ -175,7 +175,7 @@ ED: Entornos de Desarrollo. Pilar González.
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
 | AD    | PSP    | DI        | SGE    | HLC     |
 | AD    | PSP    | DI        | SGE    | HLC     |
-| PMDM  | PSP    | EIE       | SGE    | HLC     |
+| PMDM  | PSP    | EIEM      | SGE    | HLC     |
 | PMDM  | AD     | DI        | SGE    | EIEM    |
 | DI    | DI     | AD        | PMDM   | EIEM    |
 | DI    | DI     | AD        | PMDM   | EIEM    |
