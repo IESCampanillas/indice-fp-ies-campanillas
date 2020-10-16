@@ -19,7 +19,7 @@
 ## Módulos profesionales
 
 ### 1º DAM
-* [Bases de Datos](https://iescampanillas.org/aulavirtual/course/view.php?id=24)
+* [Bases de Datos](https://iescampanillas.com/aulavirtual/course/view.php?id=24)
 * [Entornos de Desarrollo](https://iescampanillas.org/aulavirtual/course/view.php?id=15)
 * [Lenguajes de Marcas](https://iescampanillas.org/aulavirtual/course/view.php?id=16)
 * [Programación](https://github.com/LuisJoseSanchez/programacion)
