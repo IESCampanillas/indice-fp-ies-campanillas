@@ -93,26 +93,14 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Presentacion del IES Campanillas](https://rawgit.com/LuisJoseSanchez/presentacion-ies-campanillas/master/index.html)
 
-## Perfiles de GitHub
+## :octocat: Perfiles de GitHub
 
-### Perfiles de GitHub de alumnos
+### Grupo IES Campanillas
 
-[Perfiles de GitHub de alumnos de DAM de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-dam-20-22)
-
-[Perfiles de GitHub de alumnos de DAW de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-daw-20-22)
-
-[Perfiles de GitHub de alumnos de DAW de la promoción 2019 - 2021](https://github.com/IESCampanillas/github-alumnos-daw-1921)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2019 - 2021](https://github.com/IESCampanillas/github-alumnos-dam-1921)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2018 - 2020](https://github.com/IESCampanillas/github-alumnos-dam-1820)
-
-[Perfiles de GitHub de alumnos de DAW de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
+[Perfil del grupo IES Campanillas](https://github.com/IESCampanillas)
 
 
-### Perfiles de GitHub de profesores
+### Profesores
 
 [Luis José Sánchez](https://github.com/LuisJoseSanchez)
 
@@ -121,6 +109,27 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 [Juan Antonio Jiménez](https://github.com/profesorjim) 
 
 [Antonio José Sánchez](https://github.com/bilbobolson) 
+
+### Alumnos
+
+#### DAW
+
+[Perfiles de GitHub de alumnos de DAW de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-daw-20-22)
+
+[Perfiles de GitHub de alumnos de DAW de la promoción 2019 - 2021](https://github.com/IESCampanillas/github-alumnos-daw-1921)
+
+[Perfiles de GitHub de alumnos de DAW de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
+
+#### DAM
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-dam-20-22)
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2019 - 2021](https://github.com/IESCampanillas/github-alumnos-dam-1921)
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2018 - 2020](https://github.com/IESCampanillas/github-alumnos-dam-1820)
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
+
 
 ## Horarios
 
