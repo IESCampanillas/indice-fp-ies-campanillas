@@ -93,7 +93,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Presentacion del IES Campanillas](https://rawgit.com/LuisJoseSanchez/presentacion-ies-campanillas/master/index.html)
 
-## :octocat: Perfiles de GitHub
+## <a id="perfiles-de-github"></a> :octocat: Perfiles de GitHub
 
 ### Grupo IES Campanillas
 
