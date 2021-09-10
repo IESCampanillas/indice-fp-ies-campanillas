@@ -73,9 +73,9 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 * [IES Campanillas DAM - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-dam-2018-2020): `ies-campanillas-dam-2018-2020@googlegroups.com`
 -->
 
-## Canal de Slack
+## Teams Microsoft-Teams-Logo
 
-<img src="img/slack.png">
+<img src="img/Microsoft-Teams-Logo.png">
 
 [Canal de Slack del IES Campanillas](https://fpiescampanillas.slack.com)
 (A extinguir)
