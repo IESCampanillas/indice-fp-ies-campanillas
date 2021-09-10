@@ -268,9 +268,9 @@ Las instrucciones para la realización del proyecto final de DAM están en el si
 
 [DAM, SMR, Curso de especialización de Ciberseguridad: C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/LU6FGYA9KgG2EF947)
 
-<img src="img/incubadora.png">
+<img src="img/PoloDigital.jpg">
 
-[DAM: C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/LU6FGYA9KgG2EF947)
+[Curso de especialización de Videojuegos: ](https://goo.gl/maps/LU6FGYA9KgG2EF947)
 
 ## Enlaces
 
