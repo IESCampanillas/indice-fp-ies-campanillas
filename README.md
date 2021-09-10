@@ -75,7 +75,7 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 
 ## Teams
 
-<img src="img/Microsoft-Teams-Logo.png" width="120">
+<img src="img/Microsoft-Teams-Logo.png" width="200">
 
 [Canal de Teams del IES Campanillas](https://teams.microsoft.com)
 
