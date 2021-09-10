@@ -181,11 +181,11 @@ Subdelegado: (Pendiente de asignación)
 |  BBDD |  PROG  |   BBDD    |  SINF  |   SINF  |
 |  BBDD |  SINF  |   BBDD    |  SINF  |   SINF  |
 
-SINF: Juan Carlos Amaya.
+SINF: Sistemas Informáticos. Juan Carlos Amaya.
 
-FOL: Isabel Gregory.
+FOL: Formación y Orientación Laboral. Isabel Gregory.
 
-PRO: Juan Antonio Jiménez.
+PRO: Programación. Juan Antonio Jiménez.
 
 BBDD: Bases de Datos. Eva Mª Perales.
 
