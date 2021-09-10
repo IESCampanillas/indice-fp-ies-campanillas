@@ -78,6 +78,7 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 <img src="img/slack.png">
 
 [Canal de Slack del IES Campanillas](https://fpiescampanillas.slack.com)
+(A extinguir)
 
 ## Calendario escolar
 
