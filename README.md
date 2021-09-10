@@ -147,12 +147,12 @@ Isabel Gregory Chicano
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| PRO   | PRO    |  SINF     | PRO    | SINF    |
-| PRO   | PRO    |  SINF     | PRO    | SINF    |
-| LM    | PRO    |  SINF     | PRO    | SINF    |
-| ED    | BBDD   |  LM       | BBDD   | FOL     |
-| ED    | BBDD   |  LM       | BBDD   | FOL     |
-| ED    | BBDD   |  LM       | BBDD   | FOL     |
+|  PRO  |  PRO   |   SINF    |  PRO   |  SINF   |
+|  PRO  |  PRO   |   SINF    |  PRO   |  SINF   |
+|  LM   |  PRO   |   SINF    |  PRO   |  SINF   |
+|  ED   |  BBDD  |   LM      |  BBDD  |  FOL    |
+|  ED   |  BBDD  |   LM      |  BBDD  |  FOL    |
+|  ED   |  BBDD  |   LM      |  BBDD  |  FOL    |
 
 ED: Entornos de Desarrollo. Pilar González.
 
@@ -174,12 +174,12 @@ Subdelegado: (Pendiente de asignación)
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| LM    | ED     | ED        | LM     | FOL     |
-| LM    | BBDD   | ED        | LM     | FOL     |
-| PROG  | BBDD   | PROG      | PROG   | FOL     |
-| PROG  | PROG   | PROG      | PROG   | SINF    |
-| BBDD  | PROG   | BBDD      | SINF   | SINF    |
-| BBDD  | SINF   | BBDD      | SINF   | SINF    |
+|  LM   |  ED    |   ED      |  LM    |   FOL   |
+|  LM   |  BBDD  |   ED      |  LM    |   FOL   |
+|  PROG |  BBDD  |   PROG    |  PROG  |   FOL   |
+|  PROG |  PROG  |   PROG    |  PROG  |   SINF  |
+|  BBDD |  PROG  |   BBDD    |  SINF  |   SINF  |
+|  BBDD |  SINF  |   BBDD    |  SINF  |   SINF  |
 
 SINF: Juan Carlos Amaya.
 
@@ -198,12 +198,12 @@ ED: Entornos de Desarrollo. Pilar González.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| PSP   |  DI    |  AD       |  PSP   |  EIEM   |
-| PSP   |  DI    |  AD       |  PSP   |  EIEM   |
-| PSP   |  PSP   |  DI       |  DI    |  EIEM   |
-| SGE   |  PSP   |  DI       |  DI    |  HLC    |
-| SGE   |  AD    |  EIEM     |  DI    |  HLC    |
-| SGE   |  AD    |  SGE      |  AD    |  HLC    |
+|  PSP  |  DI    |   AD      |  PSP   |  EIEM   |
+|  PSP  |  DI    |   AD      |  PSP   |  EIEM   |
+|  PSP  |  PSP   |   DI      |  DI    |  EIEM   |
+|  SGE  |  PSP   |   DI      |  DI    |  HLC    |
+|  SGE  |  AD    |   EIEM    |  DI    |  HLC    |
+|  SGE  |  AD    |   SGE     |  AD    |  HLC    |
 
 AD: Acceso a Datos. Luis José Sánchez.
 
@@ -215,7 +215,7 @@ PSP: Programación de Servicios y Procesos. Antonio J. Sánchez.
 
 DI: Diseño de Interface. Moisés Martínez.
 
-SGE: Sistemas de Gestión Empresarial. José Jiménez Mesa.
+SGE: Sistemas de Gestión Empresarial. José Juan García Mayorga.
 
 HLC: Horas de Libre Configuración. Sergio Banderas.
 
@@ -223,14 +223,12 @@ HLC: Horas de Libre Configuración. Sergio Banderas.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| DAW   | DWEC   | DWES      | DWEC   | HLC     |
-| DAW   | DWEC   | DWES      | DWEC   | HLC     |
-| DAW   | DWEC   | DWES      | DWEC   | HLC     |
-| DWES  | DI     | EIEM      | DWES   | EIEM    |
-| DWES  | DI     | DI        | DWES   | EIEM    |
-| DWES  | DI     | DI        | DI     | EIEM    |
-
-HLC: Horas de Libre Configuración. Sergio Banderas.
+|  DAW  |  DWEC  |   DWES    |  DWEC  |  HLC    |
+|  DAW  |  DWEC  |   DWES    |  DWEC  |  HLC    |
+|  DAW  |  DWEC  |   DWES    |  DWEC  |  HLC    |
+|  DWES |  DI    |   EIEM    |  DWES  |  EIEM   |
+|  DWES |  DI    |   DI      |  DWES  |  EIEM   |
+|  DWES |  DI    |   DI      |  DI    |  EIEM   |
 
 EIEM: Empresa e Iniciativa Emprendedora. Paqui.
 
@@ -238,9 +236,11 @@ DWES: Desarrollo Web en Entorno Servidor. Antonio J. Sánchez.
 
 DI: Diseño de Interface. Moisés Martínez.
 
-DWEC: Desarrollo Web en Entorno Cliente. Sergio Banderas.
-
 DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
+
+DWEC: Desarrollo Web en Entorno Cliente. José Juan García Mayorga.
+
+HLC: Horas de Libre Configuración. José Juan García Mayorga.
 
 ## Diario de trabajo de FP Dual
 
