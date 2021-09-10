@@ -108,7 +108,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Eva María Perales Belizón](https://github.com/evaperales) 
 
-[José Juan García Mayorga](https://github.com/josejuan)
+[José Juan García Mayorga](https://github.com/josejuanmayorga)
 
 Javier 
 
@@ -147,12 +147,12 @@ Isabel Gregory Chicano
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| PRO   | PRO    | PRO       | PRO    | FOL     |
-| PRO   | PRO    | PRO       | LM     | FOL     |
-| LM    | PRO     | PRO       | LM     | FOL     |
-| ED    | BBDD   | BBDD      | SINF   | SINF    |
-| ED    | BBDD   | BBDD      | SINF   | SINF    |
-| ED    | BBDD   | BBDD      | SINF   | SINF    |
+| PRO   | PRO    |  SINF     | PRO    | SINF    |
+| PRO   | PRO    |  SINF     | PRO    | SINF    |
+| LM    | PRO    |  SINF     | PRO    | SINF    |
+| ED    | BBDD   |  LM       | BBDD   | FOL     |
+| ED    | BBDD   |  LM       | BBDD   | FOL     |
+| ED    | BBDD   |  LM       | BBDD   | FOL     |
 
 ED: Entornos de Desarrollo. Pilar González.
 
@@ -162,27 +162,26 @@ BBDD: Bases de Datos. Eva Mª Perales.
 
 LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
 
-SINF: Sistemas Informáticos. Juan Carlos Amaya.
+SINF: Sistemas Informáticos. Gregorio Coronado Morón.
 
-FOL: Formación y Orientación Laboral. Paqui Báez Barrionuevo (DAM)
+FOL: Formación y Orientación Laboral. Rosa Carmen (DAM)
 
+Delegado: (Pendiente de asignación)
 
-Delegado: Jose Manuel Estrada Cobo (provisional)
-
-Subdelegado: Adrián Egea Hermoso (provisional)
+Subdelegado: (Pendiente de asignación)
 
 ### 1º DAW
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| PRO   | SINF   | PRO       | PRO    | SINF    |
-| PRO   | SINF   | PRO       | PRO    | SINF    |
-| BBDD  | SINF   | BBDD      | PRO    | SINF    |
-| BBDD  | PRO    | ED        | BBDD   | FOL     |
-| LM    | LM     | ED        | BBDD   | FOL     |
-| LM    | LM     | ED        | BBDD   | FOL     |
+| LM    | ED     | ED        | LM     | FOL     |
+| LM    | BBDD   | ED        | LM     | FOL     |
+| PROG  | BBDD   | PROG      | PROG   | FOL     |
+| PROG  | PROG   | PROG      | PROG   | SINF    |
+| BBDD  | PROG   | BBDD      | SINF   | SINF    |
+| BBDD  | SINF   | BBDD      | SINF   | SINF    |
 
-SINF: Gregorio Coronado Morón.
+SINF: Juan Carlos Amaya.
 
 FOL: Isabel Gregory.
 
@@ -190,7 +189,7 @@ PRO: Juan Antonio Jiménez.
 
 BBDD: Bases de Datos. Eva Mª Perales.
 
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. José Mariano Delgado Fajardo
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
 
 ED: Entornos de Desarrollo. Pilar González.
 
@@ -224,12 +223,12 @@ HLC: Horas de Libre Configuración. Sergio Banderas.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| HLC   | DWES   | DWEC      | DWES   | DI      |
-| HLC   | DWES   | DWEC      | DWES   | DI      |
-| HLC   | DWES   | DWEC      | DWES   | DI      |
-| EIEM  | DI     | DWES      | DWEC   | DAW     |
-| EIEM  | DI     | DWES      | DWEC   | DAW     |
-| EIEM  | DI     | EIEM      | DWEC   | DAW     |
+| DAW   | DWEC   | DWES      | DWEC   | HLC     |
+| DAW   | DWEC   | DWES      | DWEC   | HLC     |
+| DAW   | DWEC   | DWES      | DWEC   | HLC     |
+| DWES  | DI     | EIEM      | DWES   | EIEM    |
+| DWES  | DI     | DI        | DWES   | EIEM    |
+| DWES  | DI     | DI        | DI     | EIEM    |
 
 HLC: Horas de Libre Configuración. Sergio Banderas.
 
