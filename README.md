@@ -40,13 +40,14 @@
 * [Programación multimedia y de dispositivos móviles](http://iescampanillas.com/moodle/course/view.php?id=68)
 * [Horas de Libre Configuración (English)](http://iescampanillas.com/moodle/course/view.php?id=44)
 * [Empresa e Iniciativa Emprendedora](http://#)
+* [Sistemas de gestión de empresas](https://classroom.google.com/u/0/w/Mzg5MzMzNTQ5NjU0/t/all)
 
 ### 2º DAW
-* [Desarrollo Web en Entorno Cliente](http://iescampanillas.com/moodle/course/view.php?id=43)
+* [Desarrollo Web en Entorno Cliente](https://classroom.google.com/u/0/w/MzcxMzg4MDE0NzQ1/t/all)
 * [Desarrollo Web en Entorno Servidor](http://iescampanillas.com/moodle/course/view.php?id=62)
 * [Despliegue de Aplicaciones Web](http://iescampanillas.com/moodle/course/view.php?id=30)
 * [Diseño de Interfaces WEB](http://iescampanillas.com/moodle/course/view.php?id=15)
-* [Horas de Libre Configuración (English)](http://iescampanillas.com/moodle/course/view.php?id=44)
+* [Horas de Libre Configuración (English)](https://classroom.google.com/u/0/c/Mzg5NTE4NTEyMzgw)
 * [Empresa e Iniciativa Emprendedora](http://#)
 
 ## Recogida de datos de alumnos
