@@ -77,6 +77,12 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 
 <img src="img/Microsoft-Teams-Logo.png">
 
+[Canal de Teams del IES Campanillas](https://teams.microsoft.com
+
+## Canal de Slack
+
+<img src="img/slack.png">
+
 [Canal de Slack del IES Campanillas](https://fpiescampanillas.slack.com)
 (A extinguir)
 
