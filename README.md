@@ -108,17 +108,17 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Eva María Perales Belizón](https://github.com/evaperales) 
 
-Pilar Gónzalez Augusto
+[José Juan García Mayorga](https://github.com/josejuan)
 
-Isabel Gregory Chicano
-
-Juan José García Mayorga
-
-Javier
+Javier 
 
 [Juan Antonio Jiménez](https://github.com/profesorjim) 
 
 [Antonio José Sánchez](https://github.com/bilbobolson) 
+
+Pilar Gónzalez Augusto
+
+Isabel Gregory Chicano
 
 ### Alumnos
 
@@ -147,12 +147,12 @@ Javier
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| ED    | PRO    | PRO       | PRO    | FOL     |
-| ED    | PRO    | PRO       | LM     | FOL     |
-| ED    | LM     | PRO       | LM     | FOL     |
-| PRO   | LM     | BBDD      | SINF   | SINF    |
-| PRO   | BBDD   | BBDD      | SINF   | SINF    |
-| BBDD  | BBDD   | BBDD      | SINF   | SINF    |
+| PRO   | PRO    | PRO       | PRO    | FOL     |
+| PRO   | PRO    | PRO       | LM     | FOL     |
+| LM    | PRO     | PRO       | LM     | FOL     |
+| ED    | BBDD   | BBDD      | SINF   | SINF    |
+| ED    | BBDD   | BBDD      | SINF   | SINF    |
+| ED    | BBDD   | BBDD      | SINF   | SINF    |
 
 ED: Entornos de Desarrollo. Pilar González.
 
@@ -199,12 +199,12 @@ ED: Entornos de Desarrollo. Pilar González.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| AD    | PSP    | DI        | SGE    | HLC     |
-| AD    | PSP    | DI        | SGE    | HLC     |
-| PMDM  | PSP    | EIEM      | SGE    | HLC     |
-| PMDM  | AD     | DI        | SGE    | EIEM    |
-| DI    | DI     | AD        | PMDM   | EIEM    |
-| DI    | DI     | AD        | PMDM   | EIEM    |
+| PSP   |  DI    |  AD       |  PSP   |  EIEM   |
+| PSP   |  DI    |  AD       |  PSP   |  EIEM   |
+| PSP   |  PSP   |  DI       |  DI    |  EIEM   |
+| SGE   |  PSP   |  DI       |  DI    |  HLC    |
+| SGE   |  AD    |  EIEM     |  DI    |  HLC    |
+| SGE   |  AD    |  SGE      |  AD    |  HLC    |
 
 AD: Acceso a Datos. Luis José Sánchez.
 
