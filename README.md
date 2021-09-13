@@ -31,7 +31,7 @@
 * [Entornos de Desarrollo](http://iescampanillas.com/moodle/course/view.php?id=10)
 * [Lenguajes de Marcas](http://iescampanillas.com/moodle/course/view.php?id=7)
 * [Programación](https://github.com/LuisJoseSanchez/programacion)
-* [Sistemas Informáticos](http://iescampanillas.com/moodle/course/view.php?id=11)
+* [Sistemas Informáticos](https://iescampanillas.com/aulavirtual/course/view.php?id=22)
 * [Formación y Orientación Laboral](http://#)
 
 ### 2º DAM
