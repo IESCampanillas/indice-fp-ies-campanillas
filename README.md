@@ -120,7 +120,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [José Juan García Mayorga](https://github.com/josejuanmayorga)
 
-Javier 
+Javier Morillas Zafra
 
 [Juan Antonio Jiménez](https://github.com/profesorjim) 
 
@@ -240,13 +240,13 @@ HLC: Horas de Libre Configuración. Sergio Banderas.
 |  DWES |  DI    |   DI      |  DWES  |  EIEM   |
 |  DWES |  DI    |   DI      |  DI    |  EIEM   |
 
-EIEM: Empresa e Iniciativa Emprendedora. Paqui.
+EIEM: Empresa e Iniciativa Emprendedora. Isabel María Gregory Chicano
 
 DWES: Desarrollo Web en Entorno Servidor. Antonio J. Sánchez.
 
 DI: Diseño de Interface. Moisés Martínez.
 
-DAW: Despliegue de Aplicaciones Web. Juan Antonio Jiménez.
+DAW: Despliegue de Aplicaciones Web. Javier Morillas Zafra
 
 DWEC: Desarrollo Web en Entorno Cliente. José Juan García Mayorga.
 
