@@ -134,7 +134,7 @@ Javier Morillas Zafra
 
 [Antonio José Sánchez](https://github.com/bilbobolson) 
 
-Pilar Gónzalez Augusto
+[Pilar Gónzalez Augusto](https://github.com/PilarIESCampanillas)
 
 Isabel Gregory Chicano
 
