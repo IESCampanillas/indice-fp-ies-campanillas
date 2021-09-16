@@ -1,6 +1,6 @@
-# Índice para DAM y DAW
+# FP en el IES Campanillas
 
-Índice de referencia para alumnos de **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **DAW** (Desarrollo de Aplicaciones Web) del **IES Campanillas** (Málaga).
+Información para alumnos de **Formación Profesional** del **IES Campanillas** (Málaga).
 
 ## Índice general
 
