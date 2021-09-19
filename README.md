@@ -216,10 +216,10 @@ ED: Entornos de Desarrollo. Pilar González.
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-|  PSP  |  DI    |   AD      |  PSP   |  EIEM   |
-|  PSP  |  DI    |   AD      |  PSP   |  EIEM   |
-|  PSP  |  PSP   |   DI      |  DI    |  EIEM   |
-|  SGE  |  PSP   |   DI      |  DI    |  HLC    |
+|  PSP  |  DI    |   AD      |  PMDM   |  EIEM   |
+|  PSP  |  DI    |   AD      |  PMDM   |  EIEM   |
+|  PSP  |  PMDM   |   DI      |  DI    |  EIEM   |
+|  SGE  |  PMDM   |   DI      |  DI    |  HLC    |
 |  SGE  |  AD    |   EIEM    |  DI    |  HLC    |
 |  SGE  |  AD    |   SGE     |  AD    |  HLC    |
 
