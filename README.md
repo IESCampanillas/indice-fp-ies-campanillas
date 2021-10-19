@@ -150,7 +150,7 @@ Isabel Gregory Chicano
 
 #### DAM
 
-[Perfiles de GitHub de alumnos de DAM de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-dam-21-23)
+[Perfiles de GitHub de alumnos de DAM de la promoción 2021 - 2023](https://github.com/IESCampanillas/github-alumnos-dam-21-23)
 
 [Perfiles de GitHub de alumnos de DAM de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-dam-20-22)
 
