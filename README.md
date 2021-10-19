@@ -1,5 +1,7 @@
 # FP en el IES Campanillas
 
+<img src="img/octubre2021.png">
+
 Información para alumnos de **Formación Profesional** del **IES Campanillas** (Málaga).
 
 ## Índice general
