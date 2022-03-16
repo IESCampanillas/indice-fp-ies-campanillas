@@ -266,7 +266,7 @@ HLC: Horas de Libre Configuración. José Juan García Mayorga.
 
 ## Diario de trabajo de FP Dual
 
-:notebook: <https://diariofp.online>
+:notebook: <http://diario.iescampanillas.com>
 
 ## Proyecto final
 
