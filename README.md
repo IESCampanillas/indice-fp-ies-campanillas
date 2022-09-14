@@ -21,7 +21,7 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 ## Módulos profesionales
 
 ### 1º DAM
-* [Bases de Datos](https://iescampanillas.com/aulavirtual/course/view.php?id=24)
+* [Bases de Datos]<!--(https://iescampanillas.com/aulavirtual/course/view.php?id=24)-->
 * [Entornos de Desarrollo](https://iescampanillas.com/aulavirtual/course/view.php?id=15)
 * [Lenguajes de Marcas](https://iescampanillas.com/aulavirtual/course/view.php?id=16)
 * [Programación](https://github.com/LuisJoseSanchez/programacion)
@@ -29,7 +29,7 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 * [Formación y Orientación Laboral](http://#)
 
 ### 1º DAW
-* [Bases de Datos](https://iescampanillas.org/aulavirtual)
+* [Bases de Datos]<!--(https://iescampanillas.org/aulavirtual)-->
 * [Entornos de Desarrollo](https://iescampanillas.com/aulavirtual/course/view.php?id=18)
 * [Lenguajes de Marcas](https://iescampanillas.com/aulavirtual/course/view.php?id=19)
 * [Programación](https://github.com/LuisJoseSanchez/programacion)
