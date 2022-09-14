@@ -20,6 +20,13 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 
 ## Módulos profesionales
 
+### 1º SMR
+* [Aplicaciones Ofimáticas] (http://#)
+* [Sistemas Operativos] (http://#)
+* [Montaje y Manimiento](http://#)
+* [Redes Locales](http://#)
+* [Formación y Orientación Laboral](http://#)
+
 ### 1º DAM
 * [Bases de Datos](https://iescampanillas.com/aulavirtual/course/view.php?id=24)
 * [Entornos de Desarrollo](https://iescampanillas.com/aulavirtual/course/view.php?id=15)
@@ -35,6 +42,8 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 * [Programación](https://github.com/LuisJoseSanchez/programacion)
 * [Sistemas Informáticos](https://iescampanillas.com/aulavirtual/course/view.php?id=22)
 * [Formación y Orientación Laboral](http://#)
+
+### 1º ASIR
 
 ### 2º DAM
 * [Acceso a datos](https://github.com/LuisJoseSanchez/ionic)
@@ -52,9 +61,28 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 * [Horas de Libre Configuración (English)](https://classroom.google.com/u/0/c/Mzg5NTE4NTEyMzgw)
 * [Empresa e Iniciativa Emprendedora](http://#)
 
+### 2º SMR
+* [Apliciones Web](http://#)
+* [Seguridad Informática](http://#)
+* [Servicios en Red](http://#)
+* [Sistemas Operativos en Red](http://#)
+* [Horas Horas de Libre Configuración](http://#)
+* [Empresa e Iniciativa Emprendedora](http://#)
+
 ### CURSO DE ESPECIALIZACIÓN EN CIBERSEGURIDAD
 * [Análisis Forense](https://iescampanillas.com/aulavirtual/course/view.php?id=67)
+* [Bastionado de Redes y Si.](http://#)
+* [Hacking Ético](http://#)
+* [Incidentes de Ciberseguridad](http://#)
+* [Normativa de Ciberseguridad(http://#)
+* [Puesta en Producción Seg.](http://#)
 
+### CURSO DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL Y BIG DATA
+* [Modelos de Inteligencia Artificial](http://#)
+* [Sistemas de aprendizaje automático](http://#)
+* [Programación de Inteligencia Artificial](http://#)
+* [Sistemas de Big Data](http://#)
+* [Big Data aplicado](http://#)
 
 ## Recogida de datos de alumnos
 
